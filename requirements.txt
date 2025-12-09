@@ -10,4 +10,7 @@ requests
 beautifulsoup4
 pyrebase4
 fpdf2
+pydot
 setuptools
+
+
