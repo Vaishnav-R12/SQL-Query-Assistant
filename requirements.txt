@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+mysql-connector-python
+pandas
+networkx
+plotly
+SpeechRecognition
+gTTS
+requests
+beautifulsoup4
+pyrebase4
+fpdf2
