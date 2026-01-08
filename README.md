@@ -18,15 +18,6 @@ This is a Streamlit app that helps users work with SQL databases easily.
 pip install -r requirements.txt
 streamlit run review.py
 
-## 🎥 Project Demo Videos
 
- Authentication Module | https://youtu.be/YOUR_VIDEO_LINK 
- Generate SQL from English | https://youtu.be/YOUR_VIDEO_LINK 
- Upload SQL File | https://youtu.be/YOUR_VIDEO_LINK 
- SQL Copilot | https://youtu.be/aams0aAhkdA
- Visualize Data | https://youtu.be/YOUR_VIDEO_LINK |
- Query History | https://youtu.be/YOUR_VIDEO_LINK |
- Website Code Generator | https://youtu.be/YOUR_VIDEO_LINK |
- Database Migration | https://youtu.be/YOUR_VIDEO_LINK |
 
 
