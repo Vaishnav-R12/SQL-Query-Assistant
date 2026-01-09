@@ -19,6 +19,7 @@ This is a Streamlit app that helps users work with SQL databases easily.
 | Generate SQL from English | [Watch Video](https://youtu.be/YOUR_GENERATE_SQL_VIDEO) |
 | Upload SQL File | [Watch Video](https://youtu.be/vOTHyUVGV-M) |
 | Visualize Data | [Watch Video](https://youtu.be/YOUR_VISUALIZE_DATA_VIDE) |
+| Database Schema | [Watch Video](https://youtu.be/jG0AuXTx2pQ) |
 | Query History | [Watch Video](https://youtu.be/opBLY57AG-o) |
 | Website Code Generator | [Watch Video](https://youtu.be/zeMgOduGjW0) |
 | Database Migration | [Watch Video](https://youtu.be/XNuYNVo4aDo) |
@@ -28,6 +29,7 @@ This is a Streamlit app that helps users work with SQL databases easily.
 ```bash
 pip install -r requirements.txt
 streamlit run review.py
+
 
 
 
